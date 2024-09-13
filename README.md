@@ -2,18 +2,10 @@
 <!--
 **RodEsp/RodEsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Profile Badges: https://home.aveek.io/GitHub-Profile-Badges/
 -->
-👋 Hello, I'm Rodrigo!
+
+👋🏻 Hola, hello, hei, I'm Rodrigo!
 -
 👦🏻 I'm a software developer with a deep passion for open-source software and the art of writing clean, maintainable, and robust code.
 
@@ -24,4 +16,6 @@ Here are some ideas to get you started:
 🧑🏻‍🏫 Teaching is another passion of mine; had I not ventured into software, I might have been a teacher. I tutored throughout highschool and taught with [Girl Develop It](https://girldevelopit.com/) for 3 years. Who knows, maybe I'll end up in a classroom yet.
 
 🫂 Community engagement is also close to my heart. I've help build trails and bridges with the [RRGCC](https://rrgcc.org/), advocated for climbers with the [American Alpine Club](https://americanalpineclub.org/), recruited and fundraised for [Surf For Life](https://www.surfforlife.org/), and currently, I'm helping [NYC Mesh](https://www.nycmesh.net/) in their mission to provide affordable internet to New Yorkers.
+
+
 
