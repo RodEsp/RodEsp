@@ -23,5 +23,5 @@ Profile Badges: https://home.aveek.io/GitHub-Profile-Badges/
  🫂 Community engagement is also close to my heart. I've help build trails and bridges with the [RRGCC](https://rrgcc.org/), advocated for climbers with the [American Alpine Club](https://americanalpineclub.org/), recruited and fundraised for [Surf For Life](https://www.surfforlife.org/), and currently, I'm helping [NYC Mesh](https://www.nycmesh.net/) in their mission to provide affordable internet to New Yorkers.
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodesp&layout=compact&theme=transparent&langs_count=16)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodesp&layout=compact&theme=transparent&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
